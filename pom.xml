@@ -95,7 +95,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>maven-releases </name>
-	      <url>http://172.31.25.40:8081/repository/maven-releases//url>
+	      <url>http://172.31.25.40:8081/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
